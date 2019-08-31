@@ -7,4 +7,4 @@ Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intenti
 $ pip install Flask
 ```
 
-<img src = "https://github.com/rishabhbjain/Movie-Recommendation-System/Flask/app.JPG">
+<img src = "app.JPG">
