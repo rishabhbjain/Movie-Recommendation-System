@@ -127,5 +127,5 @@ The recommendations from content based recommender are quite accurate.
 
 <img src = "Screenshots/content.JPG">
 
-
-Reference: https://www.analyticsvidhya.com/blog/2015/12/started-graphlab-python/
+#### References
+https://www.analyticsvidhya.com/blog/2015/12/started-graphlab-python/
