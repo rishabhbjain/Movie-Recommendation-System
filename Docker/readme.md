@@ -11,4 +11,4 @@ docker run -it rishabhjain27/movierecommendation:latest python Project_pipeline.
 ```
 
 ### Docker run Screenshot:
-![docker run](Movie-Recommendation-System/Docker/docker_proj.png)
+![docker run](docker_proj.png)
